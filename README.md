@@ -54,7 +54,7 @@
 ║     https://verstand.tech                      ║
 ║                                                ║
 ║  🟡 omundoprecisadeumpai.com.br ────────▶     ║
-║     https://www.omundoprecisadeumpai.com.br    ║
+║     (https://www.omundoprecisadeumpai.com.br)  ║
 ╚════════════════════════════════════════════════╝
 </pre>
 
