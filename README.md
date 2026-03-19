@@ -28,6 +28,32 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=cleitonbrandao&label=visitas&color=yellow&style=flat" />
 </div>
+---
+
+ 🟡 Links
+<pre>
+╔════════════════════════════════════════════════╗
+║ 🟡 • • • • • 👾 • • • • •                      ║
+║                                                ║
+║  🟡 olhaminha.bio  ──────────────────────▶      ║
+║     https://olhaminha.bio                      ║
+║                                                ║
+║  🟡 anarkon.tech  ──────────────────────▶       ║
+║     https://anarkon.tech                       ║
+║                                                ║
+║  🟡 emprestapro.com.br  ────────────────▶        ║
+║     https://emprestapro.com.br                 ║
+║                                                ║
+║  🟡 frisotec.com.br  ───────────────────▶        ║
+║     https://frisotec.com.br                    ║
+║                                                ║
+║  🟡 sysok.com.br  ─────────────────────▶         ║
+║     https://sysok.com.br                       ║
+║                                                ║
+║  🟡 verstand.tech  ───────────────────▶          ║
+║     https://verstand.tech                      ║
+╚════════════════════════════════════════════════╝
+</pre>
 
 ---
 
@@ -81,6 +107,7 @@
 - **sysok sistemas** - nucleo de solucoes e automacoes para negocios.
 
 ---
+
 
 ## 👾 Conecte-se comigo
 - GitHub: https://github.com/cleitonbrandao
