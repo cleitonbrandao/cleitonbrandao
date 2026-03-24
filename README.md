@@ -8,7 +8,7 @@
 ╚══════════════════════════════════════╝
   </pre>
 
-  <a href="https://github.com/cleitonbrandao">
+  <a href="https://github.com/cleitonbrandao" target="_blank">
     <img src="https://img.shields.io/github/followers/cleitonbrandao?label=seguidores&style=flat-square&color=ffe100&labelColor=0b0b0b" alt="Seguidores" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=cleitonbrandao&label=visitas&color=ffe100&labelColor=0b0b0b&style=flat-square" alt="Visitas" />
@@ -42,13 +42,13 @@ Acesse meus principais projetos e SaaS em produção:
 
 | 👾 Projeto / Produto | 🔗 Status / Link |
 | :--- | :--- |
-| **olhaminha.bio** | [▶ Acesse o site](https://olhaminha.bio) |
-| **anarkon.tech** | [▶ Acesse o site](https://anarkom.tech) |
-| **emprestapro.com.br** | [▶ Acesse o site](https://emprestapro.com.br) |
-| **frisotec.com.br** | [▶ Acesse o site](https://www.frisotec.online) |
-| **sysok.com.br** | [▶ Acesse o site](https://sysok.com.br) |
-| **verstand.tech** | [▶ Acesse o site](https://verstand.tech) |
-| **omundoprecisadeumpai.com.br** | [▶ Acesse o site](https://www.omundoprecisadeumpai.com.br) |
+| **olhaminha.bio** | <a href="https://olhaminha.bio" target="_blank">▶ Acesse o site</a> |
+| **anarkon.tech** | <a href="https://anarkom.tech" target="_blank">▶ Acesse o site</a> |
+| **emprestapro.com.br** | <a href="https://emprestapro.com.br" target="_blank">▶ Acesse o site</a> |
+| **frisotec.com.br** | <a href="https://www.frisotec.online" target="_blank">▶ Acesse o site</a> |
+| **sysok.com.br** | <a href="https://sysok.com.br" target="_blank">▶ Acesse o site</a> |
+| **verstand.tech** | <a href="https://verstand.tech" target="_blank">▶ Acesse o site</a> |
+| **omundoprecisadeumpai.com.br** | <a href="https://www.omundoprecisadeumpai.com.br" target="_blank">▶ Acesse o site</a> |
 
 <br>
 <p align="center"> 🟡 ━━━━━━━━━━━━━━ ᗧ · · · 👻 · · · 🍒 ━━━━━━━━━━━━━━ 🟡 </p>
@@ -108,5 +108,5 @@ Acesse meus principais projetos e SaaS em produção:
 
 <div align="center">
   <i>"Ready to play?"</i><br>
-  <b>👾 <a href="https://github.com/cleitonbrandao">github.com/cleitonbrandao</a></b>
+  <b>👾 <a href="https://github.com/cleitonbrandao" target="_blank">github.com/cleitonbrandao</a></b>
 </div>
