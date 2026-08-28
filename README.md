@@ -42,7 +42,7 @@ Acesse meus principais projetos e SaaS em produção:
 
 | 👾 Projeto / Produto | 🔗 Status / Link |
 | :--- | :--- |
-| **olhaminha.bio** | <a href="https://olhaminha.bio" target="_blank">▶ Acesse o site</a> |
+| **lookmybio** | <a href="https://www.lookmybio.com/" target="_blank">▶ Acesse o site</a> |
 | **anarkon.tech** | <a href="https://anarkom.tech" target="_blank">▶ Acesse o site</a> |
 | **emprestapro.com.br** | <a href="https://emprestapro.com.br" target="_blank">▶ Acesse o site</a> |
 | **frisotec.com.br** | <a href="https://www.frisotec.online" target="_blank">▶ Acesse o site</a> |
